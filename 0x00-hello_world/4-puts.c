@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
  * main - this is the function puts to print C program
  *
